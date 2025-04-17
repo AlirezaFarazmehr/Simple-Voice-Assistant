@@ -28,7 +28,7 @@ Run the script and speak commands such as:
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/voice-assistant.git
+   git clone https://github.com/AlirezaFarazmehr/voice-assistant.git
    ```
 2. Navigate to the project directory:
    ```bash
